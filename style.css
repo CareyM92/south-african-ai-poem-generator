@@ -5,6 +5,7 @@ body {
 
 a {
   color: #007847;
+  text-decoration: none;
 }
 
 .container {
@@ -41,7 +42,7 @@ form {
   margin-top: 5px;
   opacity: 0.6;
   font-size: 12px;
-  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-family: "Franklin", "Arial", Arial, sans-serif;
 }
 
 .instructions {
